@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\work\\Github代码\\DesignPattern\\SimpleFactory\\SimpleFactory.csproj": {}
+    "E:\\09项目实战\\DesignPatternDemo\\DesignPattern\\SimpleFactory\\SimpleFactory.csproj": {}
   },
   "projects": {
-    "E:\\work\\Github代码\\DesignPattern\\SimpleFactory\\SimpleFactory.csproj": {
+    "E:\\09项目实战\\DesignPatternDemo\\DesignPattern\\SimpleFactory\\SimpleFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\work\\Github代码\\DesignPattern\\SimpleFactory\\SimpleFactory.csproj",
+        "projectUniqueName": "E:\\09项目实战\\DesignPatternDemo\\DesignPattern\\SimpleFactory\\SimpleFactory.csproj",
         "projectName": "SimpleFactory",
-        "projectPath": "E:\\work\\Github代码\\DesignPattern\\SimpleFactory\\SimpleFactory.csproj",
-        "packagesPath": "C:\\Users\\xianghua.xie\\.nuget\\packages\\",
-        "outputPath": "E:\\work\\Github代码\\DesignPattern\\SimpleFactory\\obj\\",
+        "projectPath": "E:\\09项目实战\\DesignPatternDemo\\DesignPattern\\SimpleFactory\\SimpleFactory.csproj",
+        "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
+        "outputPath": "E:\\09项目实战\\DesignPatternDemo\\DesignPattern\\SimpleFactory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\xianghua.xie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,8 +25,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nexus.yhglobal.cn/repository/nuget-group/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -59,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
