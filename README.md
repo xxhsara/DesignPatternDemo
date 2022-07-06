@@ -5,3 +5,6 @@
 UML图之类图
 ![image](https://user-images.githubusercontent.com/30896282/177081710-c0a8d348-104f-4e33-a448-60750258b41a.png)
 
+2，适配器模式：适配以前的三脚排插
+UML图之类图
+![image](https://user-images.githubusercontent.com/30896282/177441767-ee50a168-0b3f-4d34-b340-0a5519a14a68.png)
