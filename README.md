@@ -8,3 +8,8 @@ UML图之类图
 2，适配器模式：适配以前的三脚排插
 UML图之类图
 ![image](https://user-images.githubusercontent.com/30896282/177441767-ee50a168-0b3f-4d34-b340-0a5519a14a68.png)
+
+3，中介者模式：模拟租房中介帮租客和房东传话
+UML图之类图
+![image](https://user-images.githubusercontent.com/30896282/177933715-84a3e16f-29c9-439f-a53a-307d67e271ec.png)
+
