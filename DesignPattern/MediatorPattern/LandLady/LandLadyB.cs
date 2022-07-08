@@ -9,16 +9,17 @@ namespace MediatorPattern.LandLady
     /// <summary>
     /// 房东
     /// </summary>
-    public class LandLadyB
+    public class LandLadyB : ALandLady
     {
-        public void SendMessage()
+        public HouseMediator houseMediator = new HouseMediator();
+        public override void SendMessage()
         {
-            Console.WriteLine("我是XXX房子的房东B");
+            houseMediator.ShowMessageToTenant("我是XXX房子的房东B",this);
         }
 
-        public void CollectRent()
+        public override void ReceiveMessage(string message)
         {
-            Console.WriteLine("房东B开始收房租了");
+            Console.WriteLine($"我是房东B，我收到了{message}消息");
         }
     }
 }

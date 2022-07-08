@@ -11,9 +11,10 @@ namespace MediatorPattern.LandLady
     /// </summary>
     public class LandLadyA : ALandLady
     {
+        
         public override void SendMessage()
         {
-            Console.WriteLine("我是XXX房子的房东A，我有好多房子租");
+            houseMediator.ShowMessageToTenant("我是XXX房子的房东A，我有好多房子租",this);
         }
 
         public override void ReceiveMessage(string message)

@@ -8,6 +8,7 @@ namespace MediatorPattern.LandLady
 {
     public abstract class ALandLady
     {
+        public HouseMediator houseMediator = new HouseMediator();
         public abstract void SendMessage();
 
         public abstract void ReceiveMessage(string message);

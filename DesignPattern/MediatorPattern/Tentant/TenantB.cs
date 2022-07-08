@@ -9,14 +9,14 @@ namespace MediatorPattern.Tentant
     /// <summary>
     /// 租客B
     /// </summary>
-    public class TenantB : ITenant
+    public class TenantB : ATenant
     {
-        public void SendMessage()
+        public override void SendMessage()
         {
-            Console.WriteLine("房东好，我是租客B");
+            houseMediator.ShowMessageToLandLay("房东好，我是租客B",this);
         }
 
-        public void ReceiveMessage(string message)
+        public override void ReceiveMessage(string message)
         {
             Console.WriteLine($"我是租客B,我收到了{message}消息");
         }

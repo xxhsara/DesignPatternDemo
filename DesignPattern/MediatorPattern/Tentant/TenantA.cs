@@ -13,7 +13,7 @@ namespace MediatorPattern.Tentant
     {
         public override void SendMessage()
         {
-            Console.WriteLine("房东好，我是租客A");
+            houseMediator.ShowMessageToLandLay("房东好，我是租客A",this);
         }
 
         public override void ReceiveMessage(string message)
