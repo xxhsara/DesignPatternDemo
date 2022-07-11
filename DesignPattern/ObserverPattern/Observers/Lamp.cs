@@ -10,7 +10,7 @@ namespace ObserverPattern.Observers
     {
         public override void Start()
         {
-            Console.WriteLine("Open the lamp");
+            Console.WriteLine("Start the lamp");
         }
     }
 }
