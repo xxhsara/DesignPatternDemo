@@ -13,3 +13,8 @@ UML图之类图
 UML图之类图
 ![image](https://user-images.githubusercontent.com/30896282/177933715-84a3e16f-29c9-439f-a53a-307d67e271ec.png)
 
+4,观察者模式：模拟智能家居场景，回到家门开了之后各种电器自动开启
+UML图之类图
+![image](https://user-images.githubusercontent.com/30896282/178403000-c8240c6a-fa98-4b04-8f8f-46da2b72da5e.png)
+
+
