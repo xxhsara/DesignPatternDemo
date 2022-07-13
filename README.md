@@ -17,4 +17,9 @@ UML图之类图
 UML图之类图
 ![image](https://user-images.githubusercontent.com/30896282/178403000-c8240c6a-fa98-4b04-8f8f-46da2b72da5e.png)
 
+5,责任链模式：模拟员工请假审批流程
+UML图之类图
+![image](https://user-images.githubusercontent.com/30896282/178694550-79c1477f-b895-4146-abc4-244c6514e55b.png)
+
+
 
