@@ -21,5 +21,10 @@ UML图之类图
 UML图之类图
 ![image](https://user-images.githubusercontent.com/30896282/178694550-79c1477f-b895-4146-abc4-244c6514e55b.png)
 
+6，代理模式：模拟找代购买东西的过程
+UML图之类图
+![image](https://user-images.githubusercontent.com/30896282/178889001-c15b8324-a159-4e6f-802c-99ee8977dc0e.png)
+
+
 
 
