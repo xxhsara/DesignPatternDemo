@@ -25,6 +25,11 @@ UML图之类图
 UML图之类图
 ![image](https://user-images.githubusercontent.com/30896282/178889001-c15b8324-a159-4e6f-802c-99ee8977dc0e.png)
 
+7，装饰器模式：模拟咖啡店点咖啡加东西。参照了https://www.cnblogs.com/pluto-charon/p/16030199.html这个博主的博客
+UML图之类图
+![image](https://user-images.githubusercontent.com/30896282/178946706-762c3c46-3313-40b1-ac69-1f25d1c0341e.png)
+
+
 
 
 
