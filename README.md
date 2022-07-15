@@ -30,6 +30,12 @@ UML图之类图
 ![image](https://user-images.githubusercontent.com/30896282/178946706-762c3c46-3313-40b1-ac69-1f25d1c0341e.png)
 
 
+7，迭代器模式：模拟数据库查询到的names的数组进行遍历。
+UML图之类图
+![image](https://user-images.githubusercontent.com/30896282/179175232-10658d18-5c56-4be5-92bd-bb05c4735954.png)
+
+
+
 
 
 
