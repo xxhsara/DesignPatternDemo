@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\09项目实战\\DesignPatternDemo\\DesignPattern\\DecoratorPattern\\DecoratorPattern.csproj",
-      "projectName": "DecoratorPattern",
-      "projectPath": "E:\\09项目实战\\DesignPatternDemo\\DesignPattern\\DecoratorPattern\\DecoratorPattern.csproj",
+      "projectUniqueName": "E:\\09项目实战\\DesignPatternDemo\\DesignPattern\\StatePattern\\StatePattern.csproj",
+      "projectName": "StatePattern",
+      "projectPath": "E:\\09项目实战\\DesignPatternDemo\\DesignPattern\\StatePattern\\StatePattern.csproj",
       "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-      "outputPath": "E:\\09项目实战\\DesignPatternDemo\\DesignPattern\\DecoratorPattern\\obj\\",
+      "outputPath": "E:\\09项目实战\\DesignPatternDemo\\DesignPattern\\StatePattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

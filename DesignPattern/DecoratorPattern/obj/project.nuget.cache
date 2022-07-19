@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xhg5gMP7g2xvfA6QgZVGJVDzHNDmSbPJDp5iqga/14txDln5tHMkOHhxABONso+3Mq2H3jOP5L/IO2CJpdCGlA==",
+  "dgSpecHash": "+PkP93HokLP471aa5CMnG6r3PIzi1vyUTa/3Hijiq2xdg3FxsskGp/0BLt+ZhbBCNnViJCQC6ZvpGcb7QwmMcQ==",
   "success": true,
-  "projectFilePath": "E:\\work\\Github代码\\DesignPatternDemo\\DesignPattern\\DecoratorPattern\\DecoratorPattern.csproj",
+  "projectFilePath": "E:\\09项目实战\\DesignPatternDemo\\DesignPattern\\DecoratorPattern\\DecoratorPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

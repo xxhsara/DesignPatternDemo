@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = DecoratorPattern
-build_property.ProjectDir = E:\09项目实战\DesignPatternDemo\DesignPattern\DecoratorPattern\
+build_property.RootNamespace = StatePattern
+build_property.ProjectDir = E:\09项目实战\DesignPatternDemo\DesignPattern\StatePattern\
